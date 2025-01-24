@@ -2,6 +2,8 @@
 
 SocialFeed is a simple, responsive social media feed application built with React and Bootstrap. It demonstrates how to create a basic social media interface with features like post display, image lightbox, and search functionality.
 
+Live site URL: [SocialFeed](https://social-feed-app.netlify.app/)
+
 ## Features
 
 - Responsive design that works on desktop and mobile
